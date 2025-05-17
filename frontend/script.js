@@ -15414,7 +15414,7 @@ function showWelcomePopup(username) {
 }
 
 // Handle registration
-const API_URL = 'https://your-app.onrender.com'; // Replace with your Render URL
+const API_URL = 'https://pharmtechquiz.onrender.com';
 
 async function registerUser() {
   console.log("Registering user");
